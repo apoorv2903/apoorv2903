@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @apoorv2903
 - 👀 I’m interested in Web Development, learning new technologies, poetry.
 - 🌱 I’m currently learning DS, ALGO.
-- 💞️ I’m looking to collaborate on something exciting.
 - 📫 How to reach me apoorv.agrawal2903@gmail.com, linkedin.com/in/apoorv-agrawal-2903
 
 <!---
